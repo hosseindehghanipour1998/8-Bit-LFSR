@@ -5,4 +5,4 @@
 ## About 
 This project is an 8-bit Linear Feedback Shift Register, which is used as a password Encryptor/Decryptor.
 
-The project is designed and implemented by myself. This project is the final project of the _Micro Processors Lab_ course, under supervision of [Dr.Mohsen Raji](linkedin.com/in/mohsen-raji-97974452) at Shiraz University.
+The project is designed and implemented by myself. This project is the final project of the _Digital Design Lab_ course, under supervision of [Dr.Farshad Khun-jush](linkedin.com/in/farshad-khun-jush-785b93191) at Shiraz University.
